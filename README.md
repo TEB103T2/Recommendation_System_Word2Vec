@@ -5,7 +5,7 @@
 ### 欄位說明：
 * **[outfit_Season]**：在日本，一年分為4個期間。3月至5月是春季，6月至8月是夏季，9月至11月是秋季，12月至2月是冬季。
 * **[outfit_Like_adjust]**：依據照片上傳時間，按讚數除分母(N年前)。以2020為始(含2021年1月),不做調整(除以1)，2019年除以2，2018年除以3，以此類推
-* **[out_Update]**：資料抓取時間，從2015年開始。2014年之前(含)抓資來的資料較舊。
+* **[out_Update]**：資料抓取時間，從2015年開始。2014年之前(含)的資料較舊。
 * **[outfit_Bodypart >> outfit_Itemgroup >> outfit_Item]**：商品類別階層
   * **[outfit_Bodypart]**：Top, Buttom, Outerwear, Dress, Acc
   * **[outfit_Itemgroup]**：依據wear官網主類別
